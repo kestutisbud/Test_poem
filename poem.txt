@@ -1,6 +1,6 @@
-Eilėraštis
+Poem
 
-Labas...
-Bandymas naudoti github
+Hello...
+Try using GitHub
 
-Puiku!
+OK.
