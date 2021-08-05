@@ -1,6 +1,6 @@
-Poem
+Poem/Coding
 
-Hello...
-Try using GitHub
+cout << Hello...
+cout << Try using GitHub
 
-OK.
+cin >> OK.
